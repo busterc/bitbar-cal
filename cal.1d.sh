@@ -7,7 +7,7 @@
 # <bitbar.desc>Shows a calendar of the current, previous and next year</bitbar.desc>
 # <bitbar.image>https://raw.githubusercontent.com/busterc/bitbar-cal/master/screenshot.png</bitbar.image>
 # <bitbar.dependencies>bash</bitbar.dependencies>
-# <bitbar.abouturl>https://githb.com/busterc/bitbar-cal</bitbar.abouturl>
+# <bitbar.abouturl>https://github.com/busterc/bitbar-cal</bitbar.abouturl>
 
 year=$(date +%Y)
 last_year=$((year-1))
