@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # <bitbar.title>cal</bitbar.title>
-# <bitbar.version>v1.0</bitbar.version>
+# <bitbar.version>v1.1</bitbar.version>
 # <bitbar.author>Buster Collings</bitbar.author>
 # <bitbar.author.github>busterc</bitbar.author.github>
 # <bitbar.desc>Shows a calendar of the current, previous and next year</bitbar.desc>
